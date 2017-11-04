@@ -1,2 +1,2 @@
 # Workflow
-Workflow management for easily manage states and transition in a business prosess
+Workflow management for easily manage states and transitions in a business prosess
