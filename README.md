@@ -154,7 +154,7 @@ class WorkflowTransitionController extends Controller
   </tr>
 </table></div>
 
-**WorkflowStateTrait**
+**WorkflowTransitionTrait**
 
 <table class="tg">
   <tr>
