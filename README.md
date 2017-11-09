@@ -60,7 +60,7 @@ use Bantenprov\Workflow\Traits\WorkflowStateTrait;
 
 class WorkflowStateController extends Controller
 {
-    use WorkflowStateTrait;    
+    use WorkflowStateTrait;
 
     public function index()
     {
@@ -74,7 +74,7 @@ class WorkflowStateController extends Controller
 use Bantenprov\Workflow\Traits\WorkflowTransitionTrait;
 
 class WorkflowTransitionController extends Controller
-{    
+{
     use WorkflowTransitionTrait;
 
     public function index()
