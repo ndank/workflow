@@ -1,6 +1,9 @@
 # Workflow
 Workflow management for easily manage states and transitions in a business prosess
 
+## TODO
+lihat halaman [TODO](https://github.com/bantenprov/workflow/blob/1.0/TODO.md): untuk penyempurnaan
+
 ## Install Laravel :
 ```bash
 $ composer create-project --prefer-dist laravel/laravel project-name "5.4.*"
