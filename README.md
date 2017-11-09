@@ -50,7 +50,7 @@ $ php artisan vendor:publish --tag=workflow_view
 $ php artisan migrate
 ```
 
-## Contoh pengunaan :
+## Contoh penggunaan :
 
 ### Trait :
 **1. WorkflowStateTrait**
