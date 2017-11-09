@@ -8,3 +8,12 @@
 2. Add desktop notification when transition was change
 3. Add mail notification when transition was change
 
+
+1.2. Transition :
+  - getTransitionStatus($id)
+  - getTransitionLabel($id)
+  - getTransitionFrom($id)
+  - getTransitionTo($id)
+  - addNewTransition($request = array())
+  - destroyTransitionById($id)
+  - destoryTransitionByName($name)
