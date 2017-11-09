@@ -2,7 +2,7 @@
 Workflow management for easily manage states and transitions in a business prosess
 
 ## TODO
-lihat halaman [TODO](https://github.com/bantenprov/workflow/blob/1.0/TODO.md): untuk penyempurnaan
+See [TODO](https://github.com/bantenprov/workflow/blob/1.0/TODO.md) before use this.
 
 ## Install Laravel :
 ```bash
