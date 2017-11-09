@@ -1,6 +1,6 @@
 {
     "name": "bantenprov/workflow",
-    "description": "The Workflow package",
+    "description": "The Workflow package for manage state and transition",
     "authors": [
         {
             "name": "bantenprov",
