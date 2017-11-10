@@ -1,4 +1,4 @@
-{
+
   "description": "The Workflow package for manage state and transition",
   "name": "bantenprov/workflow",
   "type": "library",
@@ -21,9 +21,12 @@
     "that0n3guy/transliteration": "2.0.x"
   },
   "autoload": {
-    "classmap": [
-      "application/libraries/Format.php",
-      "application/libraries/REST_Controller.php"
-    ]
-  }
+        "files": [
+            "src/helpers/helpers.php"
+        ],
+        "psr-4": {
+            "Bantenprov\\Workflow\\": "src"
+        }
+    },
+    "minimum-stability": "stable"
 }
