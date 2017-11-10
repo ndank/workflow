@@ -1,4 +1,4 @@
-
+{
   "description": "The Workflow package for manage state and transition",
   "name": "bantenprov/workflow",
   "type": "library",
