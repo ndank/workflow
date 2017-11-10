@@ -1,30 +1,26 @@
 {
-    "name": "bantenprov/workflow",
-    "description": "The Workflow package for manage state and transition",
-	"homepage": "https://github.com/bantenprov/workflow",
-    "authors": [
-        {
-            "name": "bantenprov",
-            "email": "developer.bantenprov@gmail.com"
-        }
+  "name": "bantenprov/workflow",
+  "description": "The Workflow package for manage state and transition",
+  "homepage": "https://github.com/bantenprov/workflow",
+  "authors": [
+    {
+      "name": "bantenprov",
+      "email": "developer.bantenprov@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/bantenprov/workflow"
+  },
+  "require": {
+    "php": ">=5.6.4",
+    "illuminate/support": "5.4.*",
+    "laravelcollective/html": "^5.4.0",
+    "that0n3guy/transliteration": "2.0.x"
+  },
+  "autoload": {
+    "files": [
+      "src/helpers/helpers.php"
     ],
-	"license": "MIT",
-	"support": {
-		"source": "https://github.com/bantenprov/workflow"
-	},
-    "require": {
-        "php": ">=5.6.4",
-        "illuminate/support": "5.4.*",
-        "laravelcollective/html": "^5.4.0",
-        "that0n3guy/transliteration": "2.0.x"
-    },
-    "autoload": {
-        "files": [
-            "src/helpers/helpers.php"
-        ],
-        "psr-4": {
-            "Bantenprov\\Workflow\\": "src"
-        }
-    },
-    "minimum-stability": "stable"
-}
+    "psr-4": {
+      "Bantenprov\\Workflow\\": "src"      }    },    "minimum-stability": "stable"  } 
