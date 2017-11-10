@@ -1,12 +1,17 @@
 {
     "name": "bantenprov/workflow",
     "description": "The Workflow package for manage state and transition",
+	"homepage": "https://github.com/bantenprov/workflow",
     "authors": [
         {
             "name": "bantenprov",
             "email": "developer.bantenprov@gmail.com"
         }
     ],
+	"license": "MIT",
+	"support": {
+		"source": "https://github.com/bantenprov/workflow"
+	},
     "require": {
         "php": ">=5.6.4",
         "illuminate/support": "5.4.*",
