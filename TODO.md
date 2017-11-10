@@ -15,3 +15,4 @@
      - destoryTransitionByName($name)
 2. Add desktop notification when transition was change
 3. Add mail notification when transition was change
+4. Add activity log when transition change
